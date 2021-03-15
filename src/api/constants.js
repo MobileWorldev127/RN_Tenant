@@ -1,0 +1,15 @@
+export const POST = 'POST';
+export const PUT = 'PUT';
+export const GET = 'GET';
+export const DELETE = 'DELETE';
+export const PATCH = 'PATCH';
+export const FOXTONS_STORE_ID = '@TenancyTrackerStore:';
+export const AUTH_STORAGE_ID = 'AuthInfo';
+export const CONTACT_STORAGE_ID = 'Contact';
+export const PROPERTY_STORAGE_ID = 'Property';
+export const HTTP_CODE_DATA_SUCCESS = 200; // Success returning a data structure or custom value
+export const HTTP_CODE_TRUE_SUCCESS = 204; // Success returning a true value(and no data)
+export const HTTP_CODE_FALSE_SUCCESS = 304; // Success but returning a false value(and no data)
+export const HTTP_CODE_FILE_UPLOAD_ERROR = 413; // Error -> uploading file failed
+export const HTTP_CODE_FILE_UPLOAD_ERROR_WHOLE = 404.13;
+export const ISSUE_RE_OPEN_ERROR = 'INVALID_MODEL_STATE';

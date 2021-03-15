@@ -1,0 +1,19 @@
+{
+	"expo": {
+		"sdkVersion": "25.0.0",
+		"name": "Tenancy Tracker",
+		"slug": "tenancy-tracker",
+		"ios": {
+			"bundleIdentifier": "com.foxtons.tenancytracker"
+		},
+		"android": {
+			"package": "com.foxtons.tenancytracker"
+		},
+		"splash": {
+				"image": "./src/assets/images/splash.jpg",
+				"resizeMode": "cover"
+		},
+		"orientation": "portrait",
+		"icon": "./src/assets/icons/app-icon.png"
+	}
+}

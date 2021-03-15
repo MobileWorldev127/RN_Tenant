@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "599720960435",
+    "firebase_url": "https://foxtons-tenancy-tracker.firebaseio.com",
+    "project_id": "foxtons-tenancy-tracker",
+    "storage_bucket": "foxtons-tenancy-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599720960435:android:6eacbbfabd17e261",
+        "android_client_info": {
+          "package_name": "com.foxtons.tenancytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599720960435-erbglk0mvdvihp35uu5avrp7g74la0vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBApNMHZZbv_LMm57cVW51MEBsdAuJE4es"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
